@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\PRArtEstudio\\PRArtEstudio.csproj",
+      "projectUniqueName": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\prartestudio.github.io\\PRArtEstudio\\PRArtEstudio.csproj",
       "projectName": "PRArtEstudio",
-      "projectPath": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\PRArtEstudio\\PRArtEstudio.csproj",
+      "projectPath": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\prartestudio.github.io\\PRArtEstudio\\PRArtEstudio.csproj",
       "packagesPath": "C:\\Users\\larul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\PRArtEstudio\\obj\\",
+      "outputPath": "C:\\Users\\larul\\source\\repos\\PRArtEstudio\\prartestudio.github.io\\PRArtEstudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\larul\\AppData\\Roaming\\NuGet\\NuGet.Config",
