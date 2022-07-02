@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PRArtEstudio/1.0.0": {
+        "runtime": {
+          "PRArtEstudio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRArtEstudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
